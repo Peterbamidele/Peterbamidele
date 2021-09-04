@@ -3,7 +3,7 @@
 One of the most efficient ways to make yourself happy is to solve real-life problems.
 
 
-I'm Peter Aro,a strange Software Engineer
+I'm Peter Aro  raising_hand a strange Software Engineer
 
 Here are some ideas to get you started:
 
