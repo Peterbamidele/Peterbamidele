@@ -2,8 +2,6 @@
 
 One of the most efficient ways to make yourself happy is to solve real-life problems.
 
-<!--
-**Peterbamidele/Peterbamidele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm Peter Aro,a strange Software Engineer
 
@@ -17,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 Connect with Me 🤝🏻
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I'm always baffled as to why God made me the way he did.
--->
