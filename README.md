@@ -12,10 +12,13 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on  creating content for my blog and create videos for youtube  that will help people learn and grow in tech community
 - 🤔 I need assistance in software design patterns, system design, artificial intelligence, and embedded systems.
 - 💬 Ask me about Java,Python and Php.
+- 😄 Pronouns: he/him 
+- ⚡ Fun fact: I'm always baffled as to why God made me the way he did.
 
-### Connect with Me 🤝
 
-- 🐦 [twitter][twitter] **|** 
+ ### Connect with Me 🤝
+
+🐦 [twitter][twitter] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][instagram] **|** 
 🗃️ [Gmail] peterbamidele@gmail.com
@@ -25,8 +28,5 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/
 [instagram]: https://www.linkedin.com/in/peter-aro
 [linkedin]: https://www.instagram.com/abdullahismail649/?hl=en
-
-- 😄 Pronouns: he/him 
-- ⚡ Fun fact: I'm always baffled as to why God made me the way he did.
 
 
