@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 
 [![Bamidlele's github stats](https://github-readme-stats.vercel.app/api?username=Peterbamidele)](https://github.com/Peterbamidele/github-readme-stats)
-[twitter]: https://twitter.com/
+[twitter]: https://twitter.com/@BAMIDELE_98
 [instagram]: https://www.linkedin.com/in/peter-aro
 [linkedin]: https://www.instagram.com/abdullahismail649/?hl=en
 
