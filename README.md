@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 As part of my curriculum requirements, I'm now learning  Java,Pyhton and Javascript. Aside from that, I'm personally learning Php
 - 👯 I’m looking to collaborate on  creating content for my blog and create videos for youtube  that will help people learn and grow in tech community
 - 🤔 I need assistance in software design patterns, system design, artificial intelligence, and embedded systems.
-- 💬 Ask me about Java,Python and Php.
+- 💬 Ask me about Java, Python, and PHP.
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: I'm always baffled as to why God made me the way he did.
 
